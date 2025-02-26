@@ -2,5 +2,7 @@ NeuML/pubmedbert-base-embeddings est un modèle BERT pré-entraîné, spécialis
 
 Caractéristiques principales :
 Spécialisation biomédicale : Meilleure compréhension du jargon médical par rapport à BERT standard.
+
 Génération d'embeddings : Permet d'extraire des représentations vectorielles de textes biomédicaux.
+
 Utilisation : Peut être utilisé pour la classification de textes, la recherche d'information, l'extraction d'entités nommées (NER) et d'autres tâches NLP dans le domaine de la santé.
